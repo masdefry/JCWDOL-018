@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Apel Malang",
+      "price": 25000,
+      "unit": "Kg",
+      "category": "Buah"
+    },
+    {
+      "id": 2,
+      "name": "Sawi",
+      "price": 3500,
+      "unit": "Pcs",
+      "category": "Sayur"
+    },
+    {
+      "id": 3,
+      "name": "Mangga Manalagi",
+      "price": 15000,
+      "unit": "Kg",
+      "category": "Buah"
+    },
+    {
+      "id": 5,
+      "name": "Naga",
+      "price": 15000,
+      "unit": "Kg",
+      "category": "Buah"
+    },
+    {
+      "id": 6,
+      "name": "Naga",
+      "price": 15000,
+      "unit": "Kg",
+      "category": "Buah"
+    }
+  ]
+}
