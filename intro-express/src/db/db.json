@@ -1,13 +1,6 @@
 {
   "products": [
     {
-      "id": 1,
-      "name": "Apel Malang",
-      "price": 25000,
-      "unit": "Kg",
-      "category": "Buah"
-    },
-    {
       "id": 2,
       "name": "Sawi",
       "price": 3500,
@@ -16,7 +9,7 @@
     },
     {
       "id": 3,
-      "name": "Mangga Manalagi",
+      "name": "Mangga Cirebon",
       "price": 15000,
       "unit": "Kg",
       "category": "Buah"
