@@ -1,0 +1,38 @@
+{
+  "users": [
+    {
+      "uid": 1742480238521,
+      "username": "immanuel",
+      "email": "immanuel@gmail.com",
+      "password": "abc12345",
+      "role": "USER"
+    }
+  ],
+  "movies": [
+    {
+      "id": 1,
+      "title": "Agak Laen",
+      "release_date": "2024-09-10",
+      "start_showing": "2024-09-10",
+      "end_showing": "2024-12-15",
+      "genre": "COMEDY",
+      "total_seat": 60,
+      "prices": [{ "weekday": 35000 }, { "weekend": 45000 }],
+      "times": ["09:00", "11:00", "15:00", "17:00", "19:00"],
+      "image_url": "https://awsimages.detik.net.id/community/media/visual/2024/02/02/poster-resmi-film-agak-laen_169.jpeg?w=1200"
+    },
+    {
+      "id": 2,
+      "title": "Ipar Adalah Maut",
+      "release_date": "2024-11-01",
+      "start_showing": "2024-11-01",
+      "end_showing": "2025-03-30",
+      "genre": "DRAMA",
+      "total_seat": 60,
+      "prices": [{ "weekday": 35000 }, { "weekend": 45000 }],
+      "times": ["09:30", "12:00", "13:00", "14:00", "19:00"],
+      "image_url": "https://www.marketeers.com/_next/image/?url=https%3A%2F%2Fimagedelivery.net%2F2MtOYVTKaiU0CCt-BLmtWw%2Fe61c200a-e4f4-40d3-dd6c-e62822b98f00%2Fw%3D1080&w=1920&q=75"
+    }
+  ],
+  "transactions": []
+}
